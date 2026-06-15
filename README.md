@@ -8,7 +8,7 @@ I'm a BSc (Hons) Computer Science and Technology undergraduate, competitive prog
 
 <p align="left">
   <a href="https://github.com/dineth-nimnaka"><img src="https://img.shields.io/github/followers/dineth-nimnaka?label=FOLLOWERS&style=for-the-badge&color=24292e&logo=github" alt="Followers"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LEETCODE_RANK-580-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LEETCODE_RANK-2,756,179-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"></a>
   <a href="https://www.linkedin.com/in/dineth-nimnaka-8064052aa"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <a href="mailto:YmDinethnimnaka@outlook.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
