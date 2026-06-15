@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:24292e&height=220&section=header&text=Dineth%20Nimnaka&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=CS%20Undergraduate%20%7C%20Competitive%20Programmer%20%7C%20Open%20Source&descSize=18&descAlignY=75)
 # 👨‍💻 Dineth Nimnaka
 
 <p align="left">
