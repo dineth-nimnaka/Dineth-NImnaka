@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:24292e&height=220&section=header&text=Dineth%20Nimnaka&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=CS%20Undergraduate%20%7C%20Competitive%20Programmer%20%7C%20Open%20Source&descSize=18&descAlignY=75)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dineth-nimnaka/Dineth-NImnaka/main/Gemini_Generated_Image_x5ee50x5ee50x5ee.png" alt="Banner" width="100%" />
+</p>
 # 👨‍💻 Dineth Nimnaka
 
 <p align="left">
